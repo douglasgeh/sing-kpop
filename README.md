@@ -11,4 +11,5 @@ Sing KPOP is an application that shows the user the KPOP lyrics in 3 different f
 # Porpouse
 * Use firebase Realtime Database
 * Use MVVM with RxSwift
+* Use cocoa Pods
  
